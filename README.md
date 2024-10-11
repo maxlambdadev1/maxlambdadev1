@@ -35,10 +35,6 @@
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=maxlambdadev1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"> 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maxlambdadev1&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
-</p>
-<a href="https://github.com/maxlambdadev1">
-  <img alt="maxlambdadev1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=maxlambdadev1&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF"/>
-</a>
-  
+</p>  
 </p>
 </details>
